@@ -1,0 +1,15 @@
+body {
+    background-image: url('../img/cart2.jpg');
+}
+
+.meli-bien {
+  color:cadetblue;
+}
+
+.meli-mal {
+  color:crimson;
+}
+
+/* #heading {
+  color:aquamarine;
+} */
